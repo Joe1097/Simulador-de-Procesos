@@ -1,0 +1,24 @@
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Parámetros.resources
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csproj.GenerateResource.Cache
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csproj.CoreCompileInputs.cache
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.exe
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.pdb
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Simulador.resources
+C:\Users\José Manuel\Documents\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Estadísticas.resources
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csprojAssemblyReference.cache
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Estadísticas.resources
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Parámetros.resources
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.Simulador.resources
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csproj.GenerateResource.cache
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.csproj.CoreCompileInputs.cache
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.exe
+C:\Users\Joosz\OneDrive\Universidad\6°\Sistemas Operativos\Simulador\Simulador\obj\Debug\Simulador.pdb
