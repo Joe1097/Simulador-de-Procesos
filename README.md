@@ -1,7 +1,8 @@
 # Simulador-de-Procesos
-Este es un simulador de técnicas de colocación de memoria basado en los algoritmos del mejor, peor, y primer ajuste.
 
-Hecho en 2017 para la materia Sistemas Operativos del 6to semestre.
+Nuestro proyecto final para la materia Sistemas Operativos del 6to semestre (2017).
+
+Este es un simulador de técnicas de colocación de memoria basado en los algoritmos del mejor, peor, y primer ajuste.
 
 Diseñado y programado por mí, en lenguaje C#, utilizando el IDE Visual Studio.
 
