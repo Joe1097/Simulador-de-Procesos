@@ -10,8 +10,8 @@ En la carpeta raíz se encuentra un archivo word con las especificaciones del pr
 
 ¿Cómo montar el proyecto?
 
-- Instalar y abrir Visual Studio.
-- Descargar el proyecto.
-- Abrirlo.
-- Iniciar la ejecución.
+- Instala y abre Visual Studio.
+- Descarga el proyecto.
+- Busca el proyecto y ábrelo.
+- Inicia su ejecución.
 
